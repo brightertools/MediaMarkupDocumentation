@@ -10,6 +10,7 @@
 * [WebHooks](api/webhooks.md)
 * [RedirectUrl](api/redirecturl.md)
 * [Client Libraries](api/client-libraries.md)
+* [Endpoints](api/endpoints.md)
 
 ## Features
 
