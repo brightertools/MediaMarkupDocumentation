@@ -24,3 +24,7 @@
 
 * [How can we help?](support/how-can-we-help.md)
 
+## Beta Phase
+
+* [Beta / Testing](beta-phase/beta-testing.md)
+
