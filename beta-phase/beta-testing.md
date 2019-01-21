@@ -23,11 +23,11 @@ We hope early adopters will help test our application before we launch. All Beta
 
 We are very busy working on key aspects of the application to ensure we are providing a secure, stable application with features that users need, whilst keeping things simple and straight forward. We are currently working on the following :
 
-* [ ] Updated Security \(Full re-write of the User management and security protocols\)
-* [ ] Annotation Tool Features
-* [ ] Front-end usablility for non API Customers
-* [ ] HTML based Annotations
-* [ ] Removing the custom subdomain to simplify switching accounts
+* [ ] Updated Security, full re-write of the User management and OAuth integration \(in progress\)
+* [ ] Annotation Tool And API \(continual development based on feedback\)
+* [ ] Front-end usablility for non API Customers \(in progress\)
+* [ ] HTML based Annotations \(todo\)
+* [ ] Removing the custom subdomain to simplify switching accounts \(in progress\)
 
 We consider all feedback, comments and suggestions and we beleive a company will only succeed having  exceptional customer support. Please contact us if you have any questions.  
   
