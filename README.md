@@ -1,6 +1,6 @@
 # Welcome to MediaMarkup
 
-## MediaMarkup is a communication tool for reviewing and approving creative content online.
+## MediaMarkup is a communication tool for reviewing and approving creative designs online.
 
 MediaMarkup is primarily an API that provides file markup, collaboration and approval features integrated within your own applications.
 
