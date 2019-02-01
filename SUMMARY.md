@@ -19,6 +19,7 @@
 ## FAQs
 
 * [Your Questions](faqs/your-questions.md)
+* [Release Notes](faqs/release-notes.md)
 
 ## Support
 
