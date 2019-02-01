@@ -33,9 +33,9 @@ We consider all feedback, comments and suggestions and we beleive a company will
   
 If you would like to receive updates, please [**join our mailing list**](https://mediamarkup.us6.list-manage.com/subscribe/post?u=f19f84533b3456e354762477d&amp;id=6dcee31909)\*\*\*\*
 
+_**Note:**_ _We may clear down the database before launch, but will notify users if/when this happens._
+
 If you have not yet signed up to MediaMarkup, please [**signup here**](https://www.mediamarkup.com?ref=doc_beta)\*\*\*\*
 
 Please feel free to contact us any time via [support@mediamarkup.com](mailto:support@mediamarkup.com) or via live chat at [www.mediamarkup.com](https://www.mediamarkup.com)
-
-
 
