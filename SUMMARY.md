@@ -29,3 +29,8 @@
 
 * [Beta / Testing](beta-phase/beta-testing.md)
 
+## Security
+
+* [Vulnerability Disclosure Policy](security/vulnerability-disclosure-policy.md)
+* [Hall of Fame](security/hall-of-fame.md)
+
