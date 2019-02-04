@@ -8,5 +8,5 @@ This list is empty
 
 \_\_
 
-_Please review our Vulerability Dislosure Policy_ [_here_](vulnerability-disclosure-policy.md)\_\_
+_Please review our Vulnerability Disclosure Policy_ [_here_](vulnerability-disclosure-policy.md)\_\_
 
