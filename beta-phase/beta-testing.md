@@ -35,7 +35,7 @@ If you would like to receive updates, please [**join our mailing list**](https:/
 
 We are also logging updates, please see the [release notes here](../faqs/release-notes.md)
 
-_**Note:**_ _We may clear down the database before launch, but will notify users if/when this happens._
+_**Note:**_ ****_**We will more than likely clear down the database before launch, but will notify users if/when this happens.**_
 
 If you have not yet signed up to MediaMarkup, please [**signup here**](https://www.mediamarkup.com?ref=doc_beta)\*\*\*\*
 
