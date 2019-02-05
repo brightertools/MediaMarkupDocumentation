@@ -8,7 +8,6 @@ description: 'Latest Application changes, updates, bug fixes and new features'
 
 * Fixed approver names on approvals list
 * Fixed overall Status on approvals list
-* Fixed links from dashboard to approvals list \(filtering todo\)
 * Various bug fixes
 
 ### 03 Feb 2019
