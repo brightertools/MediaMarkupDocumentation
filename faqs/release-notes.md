@@ -1,13 +1,17 @@
 ---
-description: 'Latest Application changes, updates, bug fixes and new features'
+description: 'Latest Application changes, updates, bug fixes and new features.'
 ---
 
 # Release Notes
+
+This is a basic list of of the main updates to keep everyone informed.  
+We appreciate all feedback, comments and suggestions however small and obvious, just let us know at [support@mediamarkup.com](mailto:support@mediamarkup.com) or via the live chat on [www.mediamarkup.com](https://www.mediamarkup.com).
 
 ### 05 Feb 2019
 
 * Fixed approver names on approvals list
 * Fixed overall Status on approvals list
+* Fixed links on dashboard to approval list \(but need to add filtering\)
 * Various bug fixes
 
 ### 03 Feb 2019
