@@ -7,6 +7,7 @@ description: 'Latest Application changes, updates, bug fixes and new features'
 ### 05 Feb 2019
 
 * Fixed approver names on approvals list
+* Fixed overall Status on approvals list
 * Fixed links from dashboard to approvals list \(filtering todo\)
 * Various bug fixes
 
