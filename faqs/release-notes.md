@@ -11,7 +11,7 @@ We appreciate all feedback, comments and suggestions however small and obvious, 
 
 * Fixed result id when adding approval groups via the API
 * Fixed Dashboard links
-* Updated Aproval List content/filtering
+* Updated Approval List content/filtering
 
 ### 05 Feb 2019
 
