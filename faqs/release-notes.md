@@ -11,7 +11,9 @@ We appreciate all feedback, comments and suggestions however small and obvious, 
 
 * Fixed result id when adding approval groups via the API
 * Fixed Dashboard links
-* Updated Approval List content/filtering
+* Updated Approval List filtering
+* Added overall status to list and details page
+* Fixed API issue when creating multiple approval groups wiht no users added 
 
 ### 05 Feb 2019
 
