@@ -2,6 +2,17 @@
 
 * [Welcome to MediaMarkup](README.md)
 
+## User Guide
+
+* [Basic Approval Workflow](introduction/basic-approval-workflow.md)
+* [PDF and Image Review](introduction/pdf-and-image-review.md)
+* [Notes & Comments](introduction/notes-and-comments.md)
+* [Video Review](introduction/video-review.md)
+* [Approval Status](introduction/approval-status.md)
+* [Making Decisions](introduction/making-decisions.md)
+* [The Magic Pen](introduction/the-magic-pen.md)
+* [Html Review](introduction/html-review.md)
+
 ## API
 
 * [Introduction](api/introduction.md)
