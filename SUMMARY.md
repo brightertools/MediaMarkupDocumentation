@@ -36,6 +36,7 @@
 ## Support
 
 * [How can we help?](support/how-can-we-help.md)
+* [Feedback / Your Ideas](support/feedback-your-ideas.md)
 
 ## Beta Phase
 
