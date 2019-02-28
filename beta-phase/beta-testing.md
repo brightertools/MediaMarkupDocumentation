@@ -6,15 +6,12 @@ description: 'Application Status: Beta'
 
 ### Thank you for your interest in MediaMarkup.
 
-**Beta** software refers to computer software that is still being test and has not yet been officially released.
+**Beta** software refers to computer software that is still being tested and/or has not yet been officially released.
 
-This means some aspects of our app is still in progress, has a few bugs and some aspects subject to change or further development.
+This means some aspects of our MediaMarkup are still in progress, contains a few bugs and some aspects subject to change or further development.
 
-The primary development focus of our application is:
+The application is secure, stable and usable, we are just not quite ready for the official launch yet.
 
-* The main Annotation Tool for reviewing and markup of Image, PDF and video content
-* The API
-* 
 Most testing has been driven via the API with customers integrating their own applications, this aspect of the application is the most mature and is working in production for some Beta clients.
 
 We hope early adopters will help test our application before we launch. All Beta users will have free access until we launch or they feel they can run the application in production. Early adopters that use and provide feedback will benefit from a hugely discounted deal after we officially launch.
@@ -35,9 +32,9 @@ If you would like to receive updates, please [**join our mailing list**](https:/
 
 We are also logging updates, please see the [release notes here](../faqs/release-notes.md)
 
-_**Note:**_ ****_**We will more than likely clear down the database before launch, but will notify users if/when this happens.**_
+~~_**Note:**_ ****_**We will more than likely clear down the database before launch, but will notify users if/when this happens.**_~~ _**We will be migrating all data so no data will be lost.**_
 
-If you have not yet signed up to MediaMarkup, please [**signup here**](https://www.mediamarkup.com?ref=doc_beta)\*\*\*\*
+If you have not yet signed up to MediaMarkup, please [**signup here**](https://www.mediamarkup.com?ref=doc_beta) ****and try it out
 
 Please feel free to contact us any time via [support@mediamarkup.com](mailto:support@mediamarkup.com) or via live chat at [www.mediamarkup.com](https://www.mediamarkup.com)
 
