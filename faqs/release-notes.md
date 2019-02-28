@@ -7,6 +7,13 @@ description: 'Latest Application changes, updates, bug fixes and new features.'
 This is a basic list of of the main updates to keep everyone informed.  
 We appreciate all feedback, comments and suggestions however small and obvious, just let us know at [support@mediamarkup.com](mailto:support@mediamarkup.com) or via the live chat on [www.mediamarkup.com](https://www.mediamarkup.com).
 
+### 28 Feb 2019
+
+* API and UI updated to set Enabled and Readonly on Approval Groups \(Client library also updated\)
+* If an approval has multiple approval groups, the annotation tool will select the first group based on group association, enabled and readonly properties. \(used if integrating and running a squential/phased approcal cycle\)
+* Other minor Approval tool fixes
+* Due date fixed on Approval groups
+
 ### 13 Feb 2019
 
 * API Updates
