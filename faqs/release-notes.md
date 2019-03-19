@@ -7,6 +7,21 @@ description: 'Latest Application changes, updates, bug fixes and new features.'
 This is a basic list of of the main updates to keep everyone informed.  
 We appreciate all feedback, comments and suggestions however small and obvious, just let us know at [support@mediamarkup.com](mailto:support@mediamarkup.com) or via the live chat on [www.mediamarkup.com](https://www.mediamarkup.com).
 
+### 19 March 2019
+
+* File processing status available on callback, 'ApprovalVersion.Update' callback has a Processed flag property
+* Annotation tool will show processing message until file has processed \(usually seen via integration\)
+* If user there is only 1 approval groups this now shows a label \(multiple will show a selection\)
+* When clicking a time-code marker, the note will be selected with the connected line.
+* Fixed the "Next Marker" button on video, will now go to the next marker/annotation.
+* Fixed issue where annotation tools gets stuck on initialising communication
+* Button for adding notes is more prominent/obvious and reads "+ Add Note"
+* Video time-code markers now show the users name who added the note.
+* Users Avatar and Annotation colour will now be set to the same random colour.
+* Fixed issue with loading of video comments.
+* Fixed issue where annotations sometimes show behind image.
+* Fixed issue with password reset.
+
 ### 28 Feb 2019
 
 * API and UI updated to set Enabled and Readonly on Approval Groups \(Client library also updated\)
