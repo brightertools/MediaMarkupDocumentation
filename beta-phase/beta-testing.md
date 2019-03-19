@@ -32,7 +32,7 @@ If you would like to receive updates, please [**join our mailing list**](https:/
 
 We are also logging updates, please see the [release notes here](../faqs/release-notes.md)
 
-~~_**Note:**_ ****_**We will more than likely clear down the database before launch, but will notify users if/when this happens.**_~~ _**We will be migrating all data so no data will be lost.**_
+_**Note:**_ ****_**We will more than likely clear down uploaded files and data before launch, but will notify users if/when this happens. We will however be migrating all files and data used by paying customers using MediaMarkup for production.**_
 
 If you have not yet signed up to MediaMarkup, please [**signup here**](https://www.mediamarkup.com?ref=doc_beta) ****and try it out
 
