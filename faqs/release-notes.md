@@ -56,14 +56,14 @@ We appreciate all feedback, comments and suggestions however small and obvious, 
 
 ### 03 Feb 2019
 
-* Fixed approval list page not showing all items on certains conditions.
+* Fixed approval list page not showing all items on certain conditions.
 * Fixed page number and video length display for specific file types on approval list
 * Fixed issues with Annotation Note/Comments filtering
-* Switching pages via Notes selection is michmore stable
+* Switching pages via Notes selection is much more stable
 * 
 ### 31st Jan 2019
 
-* All notes for all pages wil now show by default, so users can click directly to a noteon any page
+* All notes for all pages will now show by default, so users can click directly to a note on any page
 * Note/Comment filtering has been added so search for notes, show notes for all pages or the selected page and to sort the notes by last added \(default\) or by page
 
 
