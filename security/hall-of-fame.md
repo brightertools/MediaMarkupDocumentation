@@ -1,10 +1,14 @@
 ---
-description: 'If you previously responsibly disclosed a vulnerability to us, we thank you.'
+description: >-
+  The following people have reported valid security bugs and helped us produce a
+  more secure and safer product. Thank you.
 ---
 
 # Hall of Fame
 
-This list is empty
+| Name | Link |
+| :--- | :--- |
+| Ch.Chakradhar |  |
 
 \_\_
 
