@@ -1,10 +1,10 @@
 ---
-description: >-
-  The following people have reported valid security bugs and helped us produce a
-  more secure and safer product. Thank you.
+description: Security Contributor Hall of Fame
 ---
 
 # Hall of Fame
+
+The following people have reported valid security bugs and helped us produce a more secure and safer product. Thank you for your your time.
 
 | Name | Link |
 | :--- | :--- |
@@ -12,5 +12,5 @@ description: >-
 
 \_\_
 
-_Please review our Vulnerability Disclosure Policy_ [_here_](vulnerability-disclosure-policy.md)\_\_
+Please review our Vulnerability Disclosure Policy [here](vulnerability-disclosure-policy.md)
 
