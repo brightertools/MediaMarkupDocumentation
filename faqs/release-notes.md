@@ -7,6 +7,10 @@ description: 'Latest Application changes, updates, bug fixes and new features.'
 This is a basic list of of the main updates to keep everyone informed.  
 We appreciate all feedback, comments and suggestions however small and obvious, just let us know at [support@mediamarkup.com](mailto:support@mediamarkup.com) or via the live chat on [www.mediamarkup.com](https://www.mediamarkup.com).
 
+### 05 April 2019
+
+* Fixed password fields on activation page
+
 ### 19 March 2019
 
 * File processing status available on callback, 'ApprovalVersion.Update' callback has a Processed flag property
