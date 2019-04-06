@@ -6,7 +6,6 @@
 
 * [Overview](introduction/overview.md)
 * [Basic Approval Workflow](introduction/basic-approval-workflow.md)
-* [PDF and Image Review](introduction/pdf-and-image-review.md)
 * [Notes & Comments](introduction/notes-and-comments.md)
 * [Video Review](introduction/video-review.md)
 * [Approval Status](introduction/approval-status.md)
