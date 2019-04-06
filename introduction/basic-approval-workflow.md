@@ -1,6 +1,6 @@
 # Basic Approval Workflow
 
-## Approval Process \(Basic Introduction\)
+## Basic Upload & Approval Process
 
 To start the process upload a PDF image or video from the approvals list page by clicking the **New Approval** button**...**
 
