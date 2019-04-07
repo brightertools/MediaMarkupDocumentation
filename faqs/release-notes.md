@@ -7,6 +7,13 @@ description: 'Latest Application changes, updates, bug fixes and new features.'
 This is a basic list of of the main updates to keep everyone informed.  
 We appreciate all feedback, comments and suggestions however small and obvious, just let us know at [support@mediamarkup.com](mailto:support@mediamarkup.com) or via the live chat on [www.mediamarkup.com](https://www.mediamarkup.com).
 
+### 07 April 2019
+
+* Fixed encoding issue on selected notes
+* Updated Web content 
+* Updated note list on collapsed right nav in viewer
+* Security Updates
+
 ### 05 April 2019
 
 * Fixed password fields on activation page
