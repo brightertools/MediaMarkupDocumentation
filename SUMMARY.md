@@ -7,7 +7,7 @@
 * [Overview](introduction/overview.md)
 * [Basic Approval Workflow](introduction/basic-approval-workflow.md)
 * [Notes & Comments](introduction/notes-and-comments.md)
-* [Video Review](introduction/video-review.md)
+* [Video Markup](introduction/video-review.md)
 * [Approval Status](introduction/approval-status.md)
 * [Making Decisions](introduction/making-decisions.md)
 * [The Magic Pen](introduction/the-magic-pen.md)
