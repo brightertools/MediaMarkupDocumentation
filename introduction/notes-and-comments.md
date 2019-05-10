@@ -6,15 +6,15 @@ Notes/Annotations are added by selecting an annotation/drawing tool. Various too
 
 ![Annotation/Drawing Tools](../.gitbook/assets/annotationdrawingtools.png)
 
-In this example we use the Pen tool to markup an area of interest.
+In the example below we use the Pen tool to markup an area of interest.
 
 ![Markup drawn using the Pen tool](../.gitbook/assets/pentoolareaselected.png)
 
-When the annotation has been made, you will be asked to enter a Note this is the primary note linked to the annotation.
+When the annotation ia added, a Note must be entered, this is linked to the annotation drawing.
 
 ![New Note Popup after markup up image](../.gitbook/assets/newnotepopup.png)
 
-All notes are visible on the right hand side of the page.
+All notes added to the approval are visible on the right hand side of the page.
 
 ![Notes Area](../.gitbook/assets/notesarea.png)
 
