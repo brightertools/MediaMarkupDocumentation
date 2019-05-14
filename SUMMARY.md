@@ -5,7 +5,8 @@
 ## User Guide
 
 * [Overview](introduction/overview.md)
-* [Basic Approval Workflow](introduction/basic-approval-workflow.md)
+* [Creating An Approval](introduction/creating-an-approval.md)
+* [Adding Reviewers/Approvers](introduction/adding-reviewers-approvers.md)
 * [Notes & Comments](introduction/notes-and-comments.md)
 * [Video Markup](introduction/video-review.md)
 * [Approval Status](introduction/approval-status.md)

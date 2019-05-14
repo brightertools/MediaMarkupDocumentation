@@ -1,4 +1,6 @@
 # Making Decisions
 
-Coming very soon... please contact us if you have any questions in the meantime at support@mediamarkup.com or live chat from within the app.
+Making decisions is the name of the game, the goal in your approval process is to get feedback quickly, make the changes required and intimately get things approved.
+
+
 

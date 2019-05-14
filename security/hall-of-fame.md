@@ -8,8 +8,9 @@ The following people have reported valid security bugs and helped us produce a m
 
 | Name | Link |
 | :--- | :--- |
-| Ch.Chakradhar |  |
+| Ch.Chakradhar | \(no link provided\) |
 | Gaurav Kumar | [Website](https://www.facebook.com/drago4344) |
+| Ashish Rohra | [Website](https://twitter.com/AshishRohra3) |
 
 \_\_
 
