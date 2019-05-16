@@ -11,6 +11,7 @@ The following people have reported valid security bugs and helped us produce a m
 | Ch.Chakradhar | \(no link provided\) |
 | Gaurav Kumar | [Website](https://www.facebook.com/drago4344) |
 | Ashish Rohra | [Website](https://twitter.com/AshishRohra3) |
+| Alwoares From ErrOr SquaD | [Website](https://www.linkedin.com/in/alwoares-naeem-3a470a182) |
 
 \_\_
 
