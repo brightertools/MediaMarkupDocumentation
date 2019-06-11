@@ -38,6 +38,10 @@
 * [How can we help?](support/how-can-we-help.md)
 * [Feedback / Your Ideas](support/feedback-your-ideas.md)
 
+## Downloads
+
+* [Case Studies](downloads/case-studies.md)
+
 ## Beta Phase
 
 * [Beta / Testing](beta-phase/beta-testing.md)
