@@ -2,7 +2,7 @@
 
 * [Welcome to MediaMarkup](README.md)
 
-## User Guide
+## User Guide <a id="introduction"></a>
 
 * [Overview](introduction/overview.md)
 * [Creating An Approval](introduction/creating-an-approval.md)
