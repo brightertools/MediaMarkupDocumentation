@@ -14,6 +14,7 @@ The following people have reported valid security bugs and helped us produce a m
 | Alwoares From ErrOr SquaD | [Website](https://www.linkedin.com/in/alwoares-naeem-3a470a182) |
 | Prial Islam | [Website](https://prial.me/) |
 | Abhishek Yadav | [Website](https://twitter.com/abhishake100) |
+| Shubham Dipak Bhamare | [Website](https://www.facebook.com/TheShubh77) |
 
 \_\_
 
