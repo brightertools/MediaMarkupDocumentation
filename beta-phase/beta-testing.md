@@ -14,6 +14,10 @@ The application is secure, stable and usable, we are just not quite ready for th
 
 Most testing has been driven via the API with customers integrating their own applications, this aspect of the application is the most mature and is working in production for some Beta clients.
 
+{% hint style="info" %}
+Please see [this case study](https://medium.com/mediamarkup/case-study-qmuli-api-integration-f34a093149f9) on how the API is already being used.
+{% endhint %}
+
 We hope early adopters will help test our application before we launch. All Beta users will have free access until we launch or they feel they can run the application in production. Early adopters that use and provide feedback will benefit from a hugely discounted deal after we officially launch.
 
 ### Basic RoadMap
